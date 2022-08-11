@@ -1,7 +1,7 @@
-import Tooltip from './ninja-ui/tooltip';
-import Dropdown from './ninja-ui/dropdown';
-import Tabs from './ninja-ui/tabs';
-import Snackbar from './ninja-ui/snackbar';
+import Tooltip from './all-ui/tooltip';
+import Dropdown from './all-ui/dropdown';
+import Tabs from './all-ui/tabs';
+import Snackbar from './all-ui/snackbar';
 
 // create tooltip
 const tooltip = new Tooltip(document.querySelector('.tooltip'));
